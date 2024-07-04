@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color:darkgrey;
+    font-family:sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color:darkolivegreen;
+    text-align: center;
+}
+h2{
+    color:green;
+    text-align:center;
+}
+p{
+    text-align: justify;
+}
